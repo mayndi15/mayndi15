@@ -1,17 +1,17 @@
 ### 👤 About me
  Software developer currently living and working in Brazil 🇧🇷.  
  I work at Stone as a back-end developer.
- I really enjoy studying new technologies(software and hardware).
- Currently studying Kotlin
+ I really enjoy studying new technologies (software and hardware).
+ Currently studying Kotlin.
  
  ### 🎓 Education
-  I'm a Computer Science Technician graduated from the Federal Institute of Sapucaia do Sul (IFSUL) and, currently, I am taking specialized courses on the Udemy and Alura platforms
+  I'm a Computer Science Technician graduated from the Federal Institute of Sapucaia do Sul (IFSUL) and, currently, I am taking specialized courses on the Udemy and Alura platforms.
   
  ### 💻 Technologies
- My stack of work and studies
+ My stack of work and studies:
 
-- Backend development using Java / Kotlin / Python / Spring / Hibernate
-- Architectural design as for SQL database systems like MySQL / PostgreSQL
+- Backend development using Java / Kotlin / Python / Spring / Hibernate;
+- Architectural design as for SQL database systems like MySQL / PostgreSQL.
 
 ### 📫 Contact
 - Linkedin - [Mayndi Borges](https://www.linkedin.com/in/mayndi-borges/)
