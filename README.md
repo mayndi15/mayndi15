@@ -1,7 +1,7 @@
 ### 👤 About me
  Software developer currently living and working in Brazil 🇧🇷.  
- I work at Stone as a back-end developer.
- I really enjoy studying new technologies (software and hardware).
+ I work at Stone as a back-end developer.<br>
+ I really enjoy studying new technologies (software and hardware).<br>
  Currently studying Kotlin.
  
  ### 🎓 Education
