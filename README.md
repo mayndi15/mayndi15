@@ -5,7 +5,7 @@
  Currently studying Kotlin.
  
  ### 🎓 Education  
-  I'm a Computer Science Technician graduated at the Federal Institute of Sapucaia do Sul (IFSUL) and, currently, I am taking specialized courses on the Udemy and Alura platforms.
+  I'm a Computer Science Technician graduated at the Federal Institute of Sapucaia do Sul (IFSUL) and currently, I am taking specialized courses on the Udemy and Alura platforms.
   
  ### 💻 Technologies
  My stack of work and studies:
