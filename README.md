@@ -2,7 +2,7 @@
  Software developer currently living and working in Brazil 🇧🇷.  
  I work at Stone as a back-end developer.<br>
  I really enjoy studying new technologies (software and hardware).<br>
- Currently studying Kotlin.
+ Currently studying Java.
  
  ### 🎓 Education  
   I'm a Computer Science Technician graduated at the Federal Institute of Sapucaia do Sul (IFSUL) and currently, I am taking specialized courses on the Udemy and Alura platforms.
