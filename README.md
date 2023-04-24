@@ -22,7 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayndi15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
  <a href= "https://beacons.ai/mayndi15">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayndi15&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&count_private=true&custom_title=Languages&card_width=300"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayndi15&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&count_private=true&custom_title=Languages&card_width=200"/>
 </a>
 </div>
 
