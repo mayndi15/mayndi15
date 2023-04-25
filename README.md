@@ -11,7 +11,7 @@
 
 - Backend - Java / Python / Spring Boot / Hibernate;
 - Mobile - Kotlin / Dart / Android / Flutter;
-- SQL - MySQL / PostgreSQL;
+- SQL - MySQL / PostgreSQL.
 
 <div>
 <a href= "https://beacons.ai/mayndi15">
