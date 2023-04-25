@@ -9,12 +9,12 @@
  ### 💻 Technologies
  My stack of work and studies:
 
-- DevOps development using Docker/ Jenkins / Elasticsearch / SonarQube / Kafka
-- Backend development using Java / Python / Spring Boot / Hibernate;
-- Mobile development using Kotlin / Dart / Android / Flutter;
-- SQL database like MySQL / PostgreSQL;
-- NoSQL database like MongDB;
-- Cache database in memory like Redis
+- DevOps development - Docker/ Jenkins / Elasticsearch / SonarQube / Kafka
+- Backend development - Java / Python / Spring Boot / Hibernate;
+- Mobile development - Kotlin / Dart / Android / Flutter;
+- SQL database - MySQL / PostgreSQL;
+- NoSQL database - MongDB;
+- Cache database in memory - Redis
 
 <div>
 <a href= "https://beacons.ai/mayndi15">
