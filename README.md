@@ -1,6 +1,6 @@
 ### 👤 About me
  Software developer Java since 2020 currently living and working in Brazil 🇧🇷.  
- I work at Stone as a back-end developer.<br>
+ I work at Stone as a back-end developer C# .Net.<br>
  I really enjoy studying new technologies (software and hardware).<br>
  
  ### 🎓 Education  
