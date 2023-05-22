@@ -22,4 +22,5 @@
 </a>
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mayndi15&theme=high-contrast&bg_color=00000000)
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mayndi15&theme=github&bg_color=00000000)
