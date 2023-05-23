@@ -14,8 +14,27 @@
 - Database - **MySQL / PostgreSQL / MongoDB**
 
 ##
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" width="60"/>
-          
+<div class="row">
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" width="60"/>
+  </div>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" width="60"/>
+  </div>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" width="60"/>
+  </div>
+   <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" width="60"/>
+  </div>
+   <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="60" width="60" />
+  </div>
+ <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60" width="60"/>
+ </div>
+</div>
+
 <div>
 <a href= "https://beacons.ai/mayndi15">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayndi15&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&count_private=true"/>
