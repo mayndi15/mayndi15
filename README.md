@@ -15,7 +15,6 @@
 
 ##
 <p align="center">
-  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" width="60"/>
   </div>
   <div>
@@ -33,7 +32,6 @@
  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60" width="60"/>
  </div>
-</div>
 </p>
 
 <div>
