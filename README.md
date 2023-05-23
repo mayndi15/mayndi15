@@ -13,6 +13,10 @@
 - Mobile - **Kotlin / Dart / Android / Flutter**
 - Database - **MySQL / PostgreSQL / MongoDB**
 
+##
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
 <div>
 <a href= "https://beacons.ai/mayndi15">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayndi15&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&count_private=true"/>
