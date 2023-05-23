@@ -10,7 +10,7 @@
  My stack of work and studies:
 
 - Backend - **Java / Python / Spring Boot / Hibernate**
-- Mobile - **Kotlin / Dart / Android / Flutter**
+- Mobile - **Android / Flutter**
 - Database - **PostgreSQL / MongoDB**
 
 ##
