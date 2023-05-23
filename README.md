@@ -14,7 +14,7 @@
 - Database - **PostgreSQL / MongoDB**
 
 ##
-<div class="row">
+<p align="center">
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" width="60"/>
   </div>
@@ -34,6 +34,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60" width="60"/>
  </div>
 </div>
+</p>
 
 <div>
 <a href= "https://beacons.ai/mayndi15">
