@@ -11,10 +11,10 @@
 
 - Backend - **Java / Python / Spring Boot / Hibernate**
 - Mobile - **Kotlin / Dart / Android / Flutter**
-- Database - **MySQL / PostgreSQL / MongoDB**
+- Database - **PostgreSQL / MongoDB**
 
 ##
-<div class="column">
+<div class="row">
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" width="60"/>
   </div>
@@ -22,10 +22,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" width="60"/>
   </div>
   <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="60" width="60" />
   </div>
    <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" width="60" />
   </div>
    <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="60" width="60" />
