@@ -14,7 +14,7 @@
 - Database - **MySQL / PostgreSQL / MongoDB**
 
 ##
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg", height=1px, width=1px>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="10" width="10"/>
           
 <div>
 <a href= "https://beacons.ai/mayndi15">
