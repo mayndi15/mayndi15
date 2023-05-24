@@ -23,14 +23,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="55" width="55" hspace="5"/>
 </p>
 
-<div>
+<p>
 <a href= "https://beacons.ai/mayndi15">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayndi15&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&count_private=true"/>
 </a>
  <a href= "https://beacons.ai/mayndi15">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayndi15&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000&custom_title=Languages&card_width=375&hide=c%2B%2B,objective-c,cmake,c,swift"/>
 </a>
-</div>
+</p>
 
 ###
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mayndi15&theme=github&bg_color=00000000)
