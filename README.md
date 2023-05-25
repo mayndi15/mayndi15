@@ -23,6 +23,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="55" width="55" hspace="5"/>
 </p>
 ##
+
 <div>
 <a href= "https://beacons.ai/mayndi15">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayndi15&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&count_private=true&hide_border=true"/>
