@@ -31,6 +31,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayndi15&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000&custom_title=Languages&card_width=375&hide=c%2B%2B,objective-c,cmake,c,swift"/>
 </a>
 </div>
-
-###
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mayndi15&theme=github&bg_color=00000000)
