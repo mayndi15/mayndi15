@@ -31,3 +31,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayndi15&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000&custom_title=Languages&card_width=375&hide=c%2B%2B,objective-c,cmake,c,swift"/>
 </a>
 </div>
+
+<a href='https://github.com/mayndi15/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/mayndi15/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/mayndi15/github-stats-transparent/output/generated/languages.svg)
+
+</a>
