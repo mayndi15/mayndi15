@@ -31,18 +31,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayndi15&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000&custom_title=Languages&card_width=375&hide=c%2B%2B,objective-c,cmake,c,swift"/>
 </a>
 </div>
-
-<a  href="https://github.com/mayndi15">
-
-<img src="https://raw.githubusercontent.com/mayndi15/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/mayndi15/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/mayndi15/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/mayndi15/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
