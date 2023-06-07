@@ -1,12 +1,12 @@
 ### 👤 About me
- Software Developer Java since 2020 currently living and working in Brazil 🇧🇷.  
- I work at Stone as a Back-End Developer.<br>
- I play with Mobile Development and automation in Python.<br>
- I really enjoy studying new technologies (software and hardware).<br>
+ Java Software Developer since 2020 and am currently living and working in Brazil 🇧🇷.  
+ I am employed at Stone as a Back-End Developer.<br>
+ I dabble in Mobile Development and automation with Python.<br>
+ I have a keen interest in learning new technologies, both software and hardware.<br>
  
  ### 🎓 Education  
-  I'm a Computer Science Technician graduated at the Federal Institute of Sapucaia do Sul (IFSUL)  
-  and currently I am taking specialized courses on the Udemy and Alura platforms.
+  I'm a Computer Science Technician, graduated from the Federal Institute of Sapucaia do Sul (IFSUL). 
+  Currently, I'm pursuing specialized courses on the Udemy and Alura platforms.
   
  ### ⚒️ Work
 My work experience began in 2020, while I was still pursuing my technician course. I worked as a freelancer at  
