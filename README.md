@@ -16,7 +16,7 @@ However, I also taught programming using the Java language.
 Later in 2020, I started my tenure at eSales as a Trainee Back-End Developer, focusing on Java. After a year there,  
 I was promoted to the position of Junior Back-End Developer, 
 a role I held for nearly a year before deciding to move on.  
-Presently, I am working as a Junior Back-End Developer at Stone Co, where I am involved in projects using Java, C#, and Android.
+Presently, I am working as a Junior Back-End Developer at Stone Co, where I am involved in projects using Java, C# and Android.
   
  ### 💻 Technologies
  My stack of work and studies:
