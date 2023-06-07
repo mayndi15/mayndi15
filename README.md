@@ -5,7 +5,7 @@
  I have a keen interest in learning new technologies, both software and hardware.<br>
  
  ### 🎓 Education  
-  I'm a Computer Science Technician, graduated from the Federal Institute of Sapucaia do Sul (IFSUL). 
+  I'm a Computer Science Technician, graduated from the Federal Institute of Sapucaia do Sul (IFSUL).  
   Currently, I'm pursuing specialized courses on the Udemy and Alura platforms.
   
  ### ⚒️ Work
