@@ -1,7 +1,7 @@
 ### 👤 About me
  Software Developer Java since 2020 currently living and working in Brazil 🇧🇷.  
  I work at Stone as a Back-End Developer.<br>
- I play with Mobile Development.<br>
+ I play with Mobile Development and automation in python.<br>
  I really enjoy studying new technologies (software and hardware).<br>
  
  ### 🎓 Education  
