@@ -21,7 +21,7 @@ Presently, I am working as a Junior Back-End Developer at Stone Co, where I am i
  ### 💻 Technologies
  My stack of work and studies:
 
-- Backend - **Java / Python / Spring Boot / Hibernate**
+- Backend - **Java / Python / C# / .NET / Spring Boot / Hibernate**
 - Mobile - **Android / Flutter**
 - Database - **PostgreSQL / MongoDB**
 ##
