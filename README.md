@@ -48,7 +48,7 @@ Presently, I am working as a Junior Back-End Developer at Stone Co, where I am i
 
 <div>
 <a href= "https://beacons.ai/mayndi15">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayndi15&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayndi15&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&count_private=true&role=ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true"/>
 </a>
  <a href= "https://beacons.ai/mayndi15">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayndi15&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000&custom_title=Languages&card_width=375&hide=c%2B%2B,objective-c,cmake,c,swift,kotlin&hide_border=true"/>
