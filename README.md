@@ -24,6 +24,7 @@ Presently, I am working as a Junior Back-End Developer at Stone Co, where I am i
 - Backend - **Java / Python / C# / .NET / Spring Boot**
 - Mobile - **Android / Flutter**
 - Database - **PostgreSQL / MongoDB**
+- Others - **Redis / Kafka / Docker**
 ##
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" width="30" hspace="5"/>
