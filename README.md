@@ -21,18 +21,21 @@ Presently, I am working as a Junior Back-End Developer at Stone Co, where I am i
  ### 💻 Technologies
  My stack of work and studies:
 
-- Backend - **Java / Python / C# / .NET / Spring Boot**
+- Backend - **Java / Python / C# / Spring Boot / FastAPI / .NET**
 - Mobile - **Android / Flutter**
-- Database - **PostgreSQL / MongoDB**
+- Database - **PostgreSQL / MySQL / MongoDB**
 - Others - **Redis / Kafka / Docker**
 ##
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" width="30" hspace="5"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" hspace="5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" hspace="5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" width="40" hspace="5"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" hspace="5"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="40" width="40" hspace="5"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" hspace="5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" width="40" hspace="5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" hspace="5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" width="40" hspace="5"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" width="40" hspace="5"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" hspace="5"/>
           
    
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" hspace="5"/> -->
