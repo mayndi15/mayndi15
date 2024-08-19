@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 About me
- Java Software Developer since 2020 and am currently living and working in Brazil 🇧🇷.  
- I am employed at Stone as a Back-End Developer.<br>
+ Java Software Developer since 2020 and am currently working in Brazil and living in Englad.  
+ I am employed at Trela as a Back-End Developer.<br>
  I dabble in Mobile Development and automation with Python.<br>
  I have a keen interest in learning new technologies, both software and hardware.<br>
  
