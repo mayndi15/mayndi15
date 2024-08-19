@@ -1,5 +1,5 @@
 ### 👨🏻‍💻 About me
- Java Software Developer since 2020 and am currently working in Brazil and living in Englad.  
+ Java Software Developer since 2020 and am currently working in Brazil and living in Watford UK.  
  I am employed at Trela as a Back-End Developer.<br>
  I dabble in Mobile Development and automation with Python.<br>
  I have a keen interest in learning new technologies, both software and hardware.<br>
