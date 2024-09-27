@@ -16,7 +16,12 @@ However, I also taught programming using the Java language.
 Later in 2020, I started my tenure at eSales as a Trainee Back-End Developer, focusing on Java. After a year there,  
 I was promoted to the position of Junior Back-End Developer, 
 a role I held for nearly a year.  
-Presently, I am working as a Junior Back-End Developer at Stone Co, where I am involved in projects using Java, C# and Android.
+Subsequently, I took on the position of Junior Back-End Developer at Stone Co, 
+where I am involved in projects using Java and Spring Boot, .NET and Android using Kotlin.
+Currently, I work as a Software Engineer at Trela, where I develop robust functionalities using Python with Flask and FastAPI. 
+I focus on infrastructure automation with Terraform and ensure system observability with New Relic. 
+Additionally, I work with event-driven architectures using RabbitMQ and Kafka, manage SQL databases, 
+and utilise Google Cloud Platform (GCP) to integrate SonarQube for improved code quality and continuous integration.
   
  ### 💻 Technologies
  My stack of work and studies:
