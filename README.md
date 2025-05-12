@@ -1,4 +1,4 @@
-### 👨🏻‍💻 About me
+ <!-- ### 👨🏻‍💻 About me
  Back-End Software Developer since 2020 and am currently working in Brazil and living in London UK.  
  I am employed at Trela as a Back-End Developer.<br>
  I dabble in Mobile Development and automation with Python.<br>
@@ -21,7 +21,7 @@ where I am involved in projects using Java and Spring Boot, .NET and Android usi
 Currently, I work as a Software Engineer at Trela, where I develop robust functionalities using Python with Flask and FastAPI. 
 I focus on infrastructure automation with Terraform and ensure system observability with New Relic. 
 Additionally, I work with event-driven architectures using RabbitMQ and Kafka, manage SQL databases, 
-and utilise Google Cloud Platform (GCP) to integrate SonarQube for improved code quality and continuous integration.
+and utilise Google Cloud Platform (GCP) to integrate SonarQube for improved code quality and continuous integration. -->
   
  ### 💻 Technologies
  My stack of work and studies:
