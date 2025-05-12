@@ -29,7 +29,7 @@ and utilise Google Cloud Platform (GCP) to integrate SonarQube for improved code
 - Backend - **Java / Python / C# / Spring Boot / FastAPI / .NET**
 - Mobile - **Android / Flutter**
 - Database - **PostgreSQL / MySQL / MongoDB**
-- Others - **Redis / Kafka / Docker**
+- Others - **Redis / Kafka / Terraform / Docker**
 ##
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" width="30" hspace="5"/>
