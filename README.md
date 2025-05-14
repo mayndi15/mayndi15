@@ -23,7 +23,7 @@ I focus on infrastructure automation with Terraform and ensure system observabil
 Additionally, I work with event-driven architectures using RabbitMQ and Kafka, manage SQL databases, 
 and utilise Google Cloud Platform (GCP) to integrate SonarQube for improved code quality and continuous integration. -->
   
- ### 💻 Technologies
+ ### Technologies
  My stack of work and studies:
 
 - Backend - **Java / Python / C# / Spring Boot / FastAPI / .NET**
