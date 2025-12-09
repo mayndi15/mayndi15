@@ -30,8 +30,8 @@ and utilise Google Cloud Platform (GCP) to integrate SonarQube for improved code
 - Mobile - **Android / Flutter**
 - Database - **PostgreSQL / MySQL / MongoDB**
 - Others - **Redis / Kafka / Terraform / Docker**
-##
-<p>
+
+<!-- <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" width="30" hspace="5"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" hspace="5"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="40" hspace="5"/>
@@ -41,7 +41,7 @@ and utilise Google Cloud Platform (GCP) to integrate SonarQube for improved code
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" hspace="5"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" width="40" hspace="5"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" width="40" hspace="5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" hspace="5"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" hspace="5"/> -->
           
    
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" hspace="5"/> -->
